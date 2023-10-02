@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vayebhav
+- 👋 Hi, I’m VBHV
 - 👀 I’m interested in Technology and Reading
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on my future projects
