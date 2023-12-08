@@ -1,8 +1,5 @@
-- 👋 Hi, I’m VBHV
-- 👀 I’m interested in Technology and Reading
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on my future projects
-- 📫 Contact me on Twitter
+bow down to singularity anon
+
 
 <!---
 Vayebhav/Vayebhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
